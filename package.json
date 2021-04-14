@@ -1,0 +1,20 @@
+{
+  "name": "protobuffs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "lodash": "^4.17.21",
+    "protobufjs": "^6.10.2",
+    "yargs": "^16.2.0"
+  },
+  "bin": {
+    "ptm": "./bin/index.js"
+  }
+}
