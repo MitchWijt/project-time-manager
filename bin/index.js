@@ -14,7 +14,7 @@ yargs
     {
       name: {
         alias: 'n',
-        describe: 'Specify a name for your project list',
+        describe: 'Specify a title for your project list',
         demandOption: true
       },
       force: {
